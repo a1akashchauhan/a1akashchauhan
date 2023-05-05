@@ -1,5 +1,6 @@
-# 💫 About Me:
-I am an Aspiring Software Engineer.<br>
+# 💫 Namaste🙏, I am Akash Chauhan an aspiring Software Developer.
+Experienced in DSA and machine learning, dedicated to building efficient and intelligent software. <br>
+
 
 
 ## 🌐 Socials:
