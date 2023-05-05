@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @a1akashchauhan
-- 👀 I’m interested in Algorithm Designs, Machine Learning, Deep Fake related Technologies.
-- 🌱 I’m currently learning DSA, Machine Learning.
-- 💞️ I’m looking to collaborate on some projects of my skill and interest
-- 📫 How to reach me ... email me :- a1akashchauhan@gmail.com
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=a1akashchauhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=a1akashchauhan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=a1akashchauhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=a1akashchauhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
