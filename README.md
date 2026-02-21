@@ -1,4 +1,4 @@
-# 💫 Namaste🙏, I am Akash Chauhan an aspiring Software Developer.
+# 💫 Namaste🙏, I am Akash Chauhan.
 Experienced in probelm solving, dedicated to building efficient and intelligent software. <br>
 
 
