@@ -2,7 +2,7 @@
 
 **Engineer who thinks in products.** I build small, useful things, and I care about why they're needed before how they're built.
 
-By day I'm an SDE + Instructor at [Newton School of Technology](https://www.newtonschool.co/), where I've shipped products used by 1,000+ students and 200+ instructors. Now moving into product management full-time.
+By day I'm an SDE + Instructor at [Newton School of Technology](https://www.newtonschool.co/), where I've shipped products used by 2,000+ students and 200+ instructors. Now moving into product management full-time.
 
 → **[Portfolio](https://a1akashchauhan.github.io/portfolio/)** · **[Question of the Day case study](https://a1akashchauhan.github.io/portfolio/qotd/)**
 
@@ -17,6 +17,7 @@ By day I'm an SDE + Instructor at [Newton School of Technology](https://www.newt
 | 🧪 | **Litmus** | Chrome extension that checks whether you actually understood what you just read. |
 | 📝 | **[Slate](https://slate-worksheet.vercel.app/)** | Turns a lecture, chapter or video into a worksheet you solve by hand. |
 | 🎙 | **[Dais](https://teach-to-ai.netlify.app/)** | Teach any topic out loud to an AI student. If it gets confused, so were you. |
+| 🌳 | **[Jonbar Hinge](https://jonbar-hinge.vercel.app/)** | An encyclopedia of history that didn't happen. Pick a turning point, change it, watch what follows. |
 | 🧾 | **[CalmSplit](https://calm-split.vercel.app/)** | Drop the trip's WhatsApp chat. AI works out who paid for whom. One link settles it. |
 | 🌿 | **[Calm Notes](https://calmnotes.vercel.app/)** | One quiet notepad. Nothing else. |
 
